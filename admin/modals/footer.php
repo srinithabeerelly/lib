@@ -1,0 +1,21 @@
+	<!-- Footer -->
+	<footer class="p-5 bg-dark text-center text-white position-relative">
+		<div class="container">
+			
+			
+			<a href="https://www.youtube.com/channel/UC6aCBD8hLAJzg7V50CEcX3g"><i class="bi bi-youtube text-popup mx-1"></i></a>
+			<a href="https://twitter.com/IIITRaichur"><i class="bi bi-twitter text-popup mx-1"></i></a>
+			<a href="https://www.facebook.com/iiitraichur"><i class="bi bi-facebook text-popup mx-1"></i></a>
+			<a href="https://www.linkedin.com/school/iiitraichur/"><i class="bi bi-linkedin text-popup mx-1"></i></a>
+			
+            <a href="https://www.instagram.com/iiit_raichur/"><i class="bi bi-instagram text-popup mx-1"></i></a>
+			<p class="lead" style="opacity: 0.3;">Copyright &copy; E-Library 2021</p>
+			<a href="#" class="position-absolute bottom-0 end-0 p-5"><i class="bi bi-arrow-up-circle h1"></i></a>
+		</div>
+	</footer>
+	<!-- Bootstrap JavaScript -->
+	
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+
+</html>
